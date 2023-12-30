@@ -63,8 +63,6 @@ export const metadata: Metadata = {
 };
 ```
 
-These values are the default values.
-
 ## Usage
 
 To start the proxy server, run:

@@ -1,0 +1,8 @@
+/api/*
+/_next*
+/sitemap/*
+/favicon.ico
+/robots.txt
+/*.svg
+/*.png
+/*.html
